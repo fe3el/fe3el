@@ -15,8 +15,8 @@ My journey in computer science has cultivated a strong passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Gait Recognition From Surveillance Footage Using Deep Learning          | <a href="https://google.com">Detection Lab</a>|
 | Phishing Awareness Simulation Lab (ZPhiser)  | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Splunk Projects          | SOC Automation Lab|
+| Packet Manager Projects     | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
