@@ -23,9 +23,10 @@ My journey in computer science has cultivated a strong passion for cybersecurity
 ## Tools
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-BLTJ%20From%20Security%20Blue%20Team-0078D7?style=for-the-badge&logoColor=white" alt="BLTJ From Security Blue Team" />
+
 
 ## Projects
 - Gait Recognition From Surveillance Footage Using Deep Learning (Thesis)
