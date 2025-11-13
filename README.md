@@ -9,7 +9,6 @@ I am a recent graduate with a profound interest in technology and focus on devel
 My journey in computer science has cultivated a strong passion for cybersecurity, particularly in defensive operations. I aspire to contribute as a Tier 1 Analyst in a Security Operations Center (SOC), focusing on monitoring, detection, and incident response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
