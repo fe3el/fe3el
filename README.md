@@ -12,12 +12,11 @@ My journey in computer science has cultivated a strong passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Gait Recognition From Surveillance Footage Using Deep Learning          | <a href="https://google.com">Detection Lab</a>|
-| Phishing Awareness Simulation Lab (ZPhiser)  | <a href="https://google.com">Detection Lab</a>|
-| Splunk Projects          | SOC Automation Lab|
-| Packet Manager Projects     | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Gait Recognition From Surveillance Footage Using Deep Learning          | <a href="https://github.com/fe3el/GaitR">GaitR</a>|
+|Splunk Projects  | <a href="https://github.com/fe3el/Splunk-SIEM-Projects">Splunk Projects</a>|
+| Cloud Bucket S3 (Coming soon)          | COMING SOON|
+| SOC Automation Lab     | COMING SOON|
+
 
 ## Tools
 ### Network
@@ -42,6 +41,7 @@ My journey in computer science has cultivated a strong passion for cybersecurity
 
 ## Projects
 - Gait Recognition From Surveillance Footage Using Deep Learning (Thesis)
+- Splunk Projects
 <!--
 **fe3el/fe3el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
